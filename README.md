@@ -1,3 +1,3 @@
-# FrameLogic
+# Nixin
 
-Your one step solution for product visualization
+Your one step solution for mcq solving
