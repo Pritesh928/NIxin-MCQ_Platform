@@ -1,3 +1,3 @@
 # Nixin
 
-Your one step solution for mcq solving
+Your one step solution for optimization
